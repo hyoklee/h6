@@ -1,3 +1,3 @@
 # h7
  
- For OpenBSD 7.x.
+h for OpenBSD 7.x
